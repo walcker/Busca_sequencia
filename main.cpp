@@ -68,6 +68,6 @@ int main(){
   //Dizendo o número de acertos
   cout << "Você acertou: " << aux << " números." << endl;
 
-    system("pause");
+    //system("pause");
     return 0;
 }
